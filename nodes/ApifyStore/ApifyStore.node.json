@@ -1,0 +1,33 @@
+{
+	"node": "n8n-nodes-store-actor-intelligence-api",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics",
+		"Development"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.apify.com/platform/integrations/n8n"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://apify.com/johnvc/store-actor-intelligence-api?fpr=9n7kx3"
+			}
+		]
+	},
+	"alias": [
+		"apify",
+		"apify store",
+		"apify actors",
+		"actor intelligence",
+		"market research",
+		"competitor analysis",
+		"actor pricing",
+		"marketplace",
+		"store stats"
+	]
+}
